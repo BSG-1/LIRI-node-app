@@ -56,7 +56,7 @@ switch (command) {
    	} 
      break;
  
-   case "do-this":
+   case "do-what-it-says":
      doThis();
      break;
 }
